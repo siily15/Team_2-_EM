@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.header {
+    overflow: hidden;
+    padding: 12px;
+    text-align: center;
+    background: gray;
+    color: black;
+    font-size: 20px;
+}
+
+.content {
+    border-radius: 4px;
+    margin: 0 auto;
+    width: 290px;
+    font-size: 23px;
+    text-align: center;
+    padding: 20px;
+    background-color: lightgray;
+    margin-top: 2rem;
+}
+
+.img {
+
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.image_elon {
+    border-radius: 4px;
+}
+
+.info {
+    
+}
