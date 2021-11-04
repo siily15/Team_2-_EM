@@ -57,7 +57,7 @@
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    * _Lelet_ -
-   * _Arno_ - Sain rohkem aru kuidas netlifyse veebileht ülese panna
+   * _Arno_ - Sain rohkem aru kuidas netlifyse veebileht ülese panna.
    * _Kaur_ -
    * _Mattias_ -
    * _Krista_ -
