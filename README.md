@@ -43,7 +43,7 @@
    * _Arno_ - Ei oleks soovinud midagi muud teha.
    * _Kaur_ -
    * _Mattias_ -
-   * _Krista_ -
+   * _Krista_ - Ei oleks tahtnud.
    * _Eerik_ -
    * _Olev_ - Praegune roll sobib mulle
    
@@ -52,7 +52,7 @@
    * _Arno_ - Õppisin Rohkem tiimi juhatada ja ülesandeid anda.
    * _Kaur_ -
    * _Mattias_ -
-   * _Krista_ -
+   * _Krista_ - Tiimikaaslaste usaladamine ja nendega suhtlemine.
    * _Eerik_ -
    * _Olev_ - Sain juurde julgust tiimikaaslastega suhelda.
 
@@ -61,6 +61,6 @@
    * _Arno_ - Sain rohkem aru kuidas netlifyse veebileht ülese panna.
    * _Kaur_ -
    * _Mattias_ -
-   * _Krista_ -
+   * _Krista_ - Figma ja Githubi kasutamine.
    * _Eerik_ -
    * _Olev_ - Sain juurde teadmisi ja oskust Ubuntu terminali, Visual Studio, Githubi kohta.
