@@ -102,6 +102,7 @@ body {
 
 .social_media ul{
     display: flex;
+    flex-direction: row;
     padding: 0px;
     list-style: none;
     justify-content: center;
