@@ -39,7 +39,7 @@
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
    * _Lelet_ -
-   * _Arno_ -
+   * _Arno_ - Ei oleks soovinud midagi muud teha.
    * _Kaur_ -
    * _Mattias_ -
    * _Krista_ -
@@ -48,7 +48,7 @@
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    * _Lelet_ -
-   * _Arno_ -
+   * _Arno_ - Õppisin Rohkem tiimi juhtuda ja ülesandeid anda.
    * _Kaur_ -
    * _Mattias_ -
    * _Krista_ -
@@ -57,7 +57,7 @@
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    * _Lelet_ -
-   * _Arno_ -
+   * _Arno_ - Sain rohkem aru kuidas netlifyse veebileht ülese panna
    * _Kaur_ -
    * _Mattias_ -
    * _Krista_ -
