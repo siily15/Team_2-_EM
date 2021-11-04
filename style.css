@@ -32,7 +32,7 @@ body {
     font-size: 23px;
     text-align: center;
     padding: 20px;
-    margin-top: 2rem;
+    margin-top: 10px;
 }
 
 .info{
@@ -80,11 +80,45 @@ body {
 .projects{
     text-align: center;
     font-size: 23px;
-    padding: 5%;
+    padding: 1%;
 }
 
 .projects h3{
     font-size: 33px;
     text-transform: uppercase;
     letter-spacing: 5px;
+}
+
+.projects p{
+    color: #919aa3;
+    border-bottom: 1px solid #e0e0e0;
+    font-size: 17px;
+}
+
+.social_media{
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    height: 50px;
+}
+
+.social_media ul{
+    display: flex;
+    padding: 0px;
+    list-style: none;
+    justify-content: center;
+   margin: 0px;
+}
+
+.social_media ul li{
+    width: 45px;
+    height: 45px;
+    margin-right: 10px;
+    border-radius: 5px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.social_media ul li a{
+    color: #fff;
+    display: block;
+    font-size: 18px;
 }
