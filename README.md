@@ -52,7 +52,7 @@
    * _Arno_ - Õppisin Rohkem tiimi juhatada ja ülesandeid anda.
    * _Kaur_ -
    * _Mattias_ - Shutlemis oskus tiimiga.
-   * _Krista_ - Tiimikaaslaste usaladamine ja nendega suhtlemine.
+   * _Krista_ - Tiimikaaslaste usaldamine ja nendega suhtlemine.
    * _Eerik_ -
    * _Olev_ - Sain juurde julgust tiimikaaslastega suhelda.
 
