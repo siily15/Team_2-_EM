@@ -7,6 +7,7 @@
 - Mattias Maasik
 - Krista kallas
 - Eerik Poopuu 
+- Olev Kuris
 
 **1.päev**
 - Analüüs, projekti sisu valimine - kogu tiim
@@ -44,7 +45,7 @@
    * _Mattias_ -
    * _Krista_ -
    * _Eerik_ -
-   * _Olev_ - 
+   * _Olev_ - Praegune roll sobib mulle
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    * _Lelet_ - Empaatiline mõtlemine
@@ -53,7 +54,7 @@
    * _Mattias_ -
    * _Krista_ -
    * _Eerik_ -
-   * _Olev_ - 
+   * _Olev_ - Sain juurde julgust tiimikaaslastega suhelda.
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    * _Lelet_ - Mõned uued "shortcut'id" Ubuntu WSL osas
@@ -62,4 +63,4 @@
    * _Mattias_ -
    * _Krista_ -
    * _Eerik_ -
-   * _Olev_ - 
+   * _Olev_ - Sain juurde teadmisi ja oskust Ubuntu terminali, Visual Studio, Githubi kohta.
