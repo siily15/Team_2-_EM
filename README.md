@@ -48,7 +48,7 @@
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    * _Lelet_ -
-   * _Arno_ - Õppisin Rohkem tiimi juhtuda ja ülesandeid anda.
+   * _Arno_ - Õppisin Rohkem tiimi juhatada ja ülesandeid anda.
    * _Kaur_ -
    * _Mattias_ -
    * _Krista_ -
