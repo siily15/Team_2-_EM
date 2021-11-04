@@ -25,7 +25,7 @@ body {
     color: #fff;
 }
 
-.content {
+.info {
     border-radius: 4px;
     margin: 0 auto;
     width: 290px;
@@ -38,6 +38,10 @@ body {
 .info{
     text-align: center;
     font-size: 23px;
+}
+
+.content{
+    text-align: center;
 }
 
 .content h1{
@@ -118,8 +122,8 @@ body {
     text-align: center;
 }
 
-.social_media{
-    color: #FFFFFF;
+.social_media ul li a{
+    color: #fff;
     display: block;
     font-size: 18px;
 }
