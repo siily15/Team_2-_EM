@@ -17,8 +17,8 @@
 - Internetist materjali otsimine - Olev
 
 **2.päev**
-- FIGMA - Kaur
-- HTML, CSS - Kaur
+- FIGMA - Kaur, Mattias, Krista
+- HTML, CSS - Kaur, Eerik
 - Tiimiliikmete juhendamine - Arno
 - Ubuntu ja VS Code'iga tutvumine - Olev
 - README faili täiendamine - Lelet
