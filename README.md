@@ -6,22 +6,22 @@
 - Kaur Luhaäär
 - Mattias Maasik
 - Krista kallas
-- Eerik Poop## Ülesanded
+- Eerik Poopuu 
 
 **1.päev**
-- 
-- 
-- 
-- 
-- 
-- 
+- Analüüs, projekti sisu valimine - kogu tiim
+- FIGMA - Kaur, Mattias, Krista
+- HTML, CSS - Kaur
+- GitHub repo loomine - Arno
+- Slacki kanali loomine - Lelet
+- Internetist materjali otsimine - Olev
 
 **2.päev**
-- 
-- 
-- 
-- 
-- 
+- FIGMA - Kaur
+- HTML, CSS - Kaur
+- Tiimiliikmete juhendamine - Arno
+- Ubuntu ja VS Code'iga tutvumine - Olev
+- README faili täiendamine - Lelet
 
 **3.päev**
 -
