@@ -38,7 +38,7 @@
 
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   * _Lelet_ -
+   * _Lelet_ - Ei ole oluline, käesolev roll sobib küll
    * _Arno_ - Ei oleks soovinud midagi muud teha.
    * _Kaur_ -
    * _Mattias_ -
@@ -47,7 +47,7 @@
    * _Olev_ - 
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-   * _Lelet_ -
+   * _Lelet_ - Empaatiline mõtlemine
    * _Arno_ - Õppisin Rohkem tiimi juhatada ja ülesandeid anda.
    * _Kaur_ -
    * _Mattias_ -
@@ -56,7 +56,7 @@
    * _Olev_ - 
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-   * _Lelet_ -
+   * _Lelet_ - Mõned uued "shortcut'id" Ubuntu WSL osas
    * _Arno_ - Sain rohkem aru kuidas netlifyse veebileht ülese panna.
    * _Kaur_ -
    * _Mattias_ -
