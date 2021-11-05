@@ -44,7 +44,7 @@
    * _Kaur_ - Ei oleks tahtnud, sest väga põnev ja huvitav oli
    * _Mattias_ - Ei ole, käes olev ülessane oli sobiv
    * _Krista_ - Ei oleks tahtnud.
-   * _Eerik_ -
+   * _Eerik_ - oli timm.
    * _Olev_ - Praegune roll sobib mulle
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
@@ -53,7 +53,7 @@
    * _Kaur_ - tiimikaaslastega suhtlemine
    * _Mattias_ - Shutlemis oskus tiimiga.
    * _Krista_ - Tiimikaaslaste usaldamine ja nendega suhtlemine.
-   * _Eerik_ -
+   * _Eerik_ - Usaldamine ja juhendamine.
    * _Olev_ - Sain juurde julgust tiimikaaslastega suhelda.
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
@@ -62,5 +62,5 @@
    * _Kaur_ - ma sain htmli ja cssi rohkem õppida
    * _Mattias_ - Figma kasutamist.
    * _Krista_ - Figma ja Githubi kasutamine.
-   * _Eerik_ -
+   * _Eerik_ - Html ja Css.
    * _Olev_ - Sain juurde teadmisi ja oskust Ubuntu terminali, Visual Studio, Githubi kohta.
