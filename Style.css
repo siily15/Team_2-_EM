@@ -67,11 +67,12 @@ body {
 }
 
 .elonimg{
-    border-radius: 5px;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
 }
 
 .img {
-
     padding-top: 2rem;
     display: flex;
     justify-content: center;
@@ -79,6 +80,7 @@ body {
 
 .image_elon {
     border-radius: 4px;
+
 }
 
 .projects{
