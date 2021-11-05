@@ -41,7 +41,7 @@
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
    * _Lelet_ - Ei ole oluline, käesolev roll sobib küll
    * _Arno_ - Ei oleks soovinud midagi muud teha.
-   * _Kaur_ -
+   * _Kaur_ - Ei oleks tahtnud, sest väga põnev ja huvitav oli
    * _Mattias_ - Ei ole, käes olev ülessane oli sobiv
    * _Krista_ - Ei oleks tahtnud.
    * _Eerik_ -
@@ -50,7 +50,7 @@
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    * _Lelet_ - Empaatiline mõtlemine
    * _Arno_ - Õppisin Rohkem tiimi juhatada ja ülesandeid anda.
-   * _Kaur_ -
+   * _Kaur_ - tiimikaaslastega suhtlemine
    * _Mattias_ - Shutlemis oskus tiimiga.
    * _Krista_ - Tiimikaaslaste usaldamine ja nendega suhtlemine.
    * _Eerik_ -
@@ -59,7 +59,7 @@
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    * _Lelet_ - Mõned uued "shortcut'id" Ubuntu WSL osas
    * _Arno_ - Sain rohkem aru kuidas netlifyse veebileht ülese panna.
-   * _Kaur_ -
+   * _Kaur_ - ma sain htmli ja cssi rohkem õppida
    * _Mattias_ - Figma kasutamist.
    * _Krista_ - Figma ja Githubi kasutamine.
    * _Eerik_ -
