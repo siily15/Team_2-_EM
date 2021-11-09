@@ -34,7 +34,7 @@
 
 
 
-[Figma](https://www.figma.com/team_invite/redeem/83XEDjX2GxJevo63MOXUBT)
+[Figma](https://www.figma.com/file/RAClEITHHm66djTZiITGk0/Elon)
 [Live](https://team2em.netlify.app/)
 
 ## Küsimused tiimiliikmetele: 
